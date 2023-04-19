@@ -1,6 +1,6 @@
 {
   "name": "vue-shadow-text",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Simple VueJS 3 component that lets you place text over an image by using a dropshadow",
   "type": "module",
   "main": "dist/library.js",
