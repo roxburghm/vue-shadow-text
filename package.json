@@ -1,0 +1,27 @@
+{
+  "name": "vue-shadow-text",
+  "version": "1.0.5",
+  "description": "Simple VueJS 3 component that lets you place text over an image by using a dropshadow",
+  "type": "module",
+  "main": "dist/library.js",
+  "module": "dist/library.mjs",
+  "files": [
+    "dist/*"
+  ],
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.21"
+  },
+  "keywords": [],
+  "author": "Matt Roxburgh",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^3.20.6",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-scss": "^4.0.0",
+    "rollup-plugin-vue": "^6.0.0",
+    "sass": "^1.62.0"
+  }
+}
